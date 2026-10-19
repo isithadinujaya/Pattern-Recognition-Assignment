@@ -14,4 +14,5 @@
 | Path | Description |
 |---|---|
 | `ByteBandits_A03_EN3150.ipynb` | Final notebook |
+| `ByteBandits_A03_EN3150.pdf` | Final report |
 | `Previous versions/` | Earlier versions of the notebook |
